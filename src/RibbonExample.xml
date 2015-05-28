@@ -1,0 +1,18 @@
+<mso:cmd app="olkexplorer" dt="1" />
+
+<mso:customUI xmlns:mso="http://schemas.microsoft.com/office/2009/07/customui">
+<mso:ribbon>
+<mso:tabs>
+<mso:tab id="t1" label="Focus">
+<mso:group id="g1" label="Startup" imageMso="AdpPrimaryKey" >
+<mso:button id="myButton1" onAction="StartFocus"
+	label="Start Focus" imageMso="AccessFormWizard" size="large"
+	 />
+
+
+</mso:group>
+
+</mso:tab>
+</mso:tabs>
+</mso:ribbon>
+</mso:customUI>
